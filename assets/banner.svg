@@ -1,22 +1,26 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">AMBROSIO — Ingeniería estructural</title>
-  <desc id="desc">Portada sobria con esquema conceptual de un pórtico, dedicada a modelación, análisis sísmico y automatización.</desc>
-  <rect width="1200" height="320" fill="#f3f5f6"/>
-  <rect x="0" width="8" height="320" fill="#173f4b"/>
-  <path d="M48 65H1152M48 268H1152" fill="none" stroke="#d1dadd"/>
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Sergio Ambrosio — Ingeniería estructural</title>
+  <desc id="desc">Acero, concreto, minería y análisis avanzado. Esquema conceptual de un pórtico espacial arriostrado sobre cimentaciones.</desc>
+  <rect width="1200" height="340" fill="#f3f5f6"/>
+  <rect width="8" height="340" fill="#173f4b"/>
+  <rect x="815" width="385" height="340" fill="#173f4b"/>
+  <path d="M48 66H772M48 282H772" fill="none" stroke="#d1dadd"/>
   <g font-family="Arial,Helvetica,sans-serif">
-    <text x="52" y="44" font-size="12" font-weight="700" letter-spacing="3.2" fill="#173f4b">AMBROSIO / STRUCTURAL LAB</text>
-    <text x="52" y="140" font-size="49" font-weight="700" letter-spacing="-1.8" fill="#242b30">Ingeniería estructural.</text>
-    <text x="54" y="191" font-size="21" fill="#56646d">Modelación numérica · Análisis sísmico · Automatización</text>
-    <text x="54" y="239" font-size="13" letter-spacing="1.5" fill="#173f4b">HIPÓTESIS / MODELO / EVIDENCIA</text>
-    <text x="54" y="296" font-size="11" letter-spacing="1.4" fill="#56646d">SERGIOAMBROSIO714.GITHUB.IO</text>
+    <text x="52" y="43" font-size="15" font-weight="700" letter-spacing="3.1" fill="#173f4b">SERGIO AMBROSIO</text>
+    <text x="50" y="137" font-size="49" font-weight="700" letter-spacing="-1.8" fill="#242b30">Ingeniería estructural.</text>
+    <text x="53" y="189" font-size="26" fill="#173f4b">Acero · Concreto · Minería</text>
+    <text x="54" y="230" font-size="17" fill="#56646d">Análisis sísmico / No lineal / Elementos finitos</text>
+    <text x="54" y="312" font-size="11" letter-spacing="1.4" fill="#56646d">DISEÑO / MODELACIÓN / REVISIÓN TÉCNICA</text>
   </g>
-  <g fill="none" stroke="#9cabb2" stroke-width="1">
-    <path d="M882 101V248M980 101V248M1078 101V248M858 229H1102M865 100H1102M865 143H1102M865 186H1102"/>
-    <path d="M882 99H1078M882 144H1078M882 187H1078M882 230H1078" stroke="#173f4b" stroke-width="3"/>
-    <path d="M882 99V230M980 99V230M1078 99V230" stroke="#173f4b" stroke-width="3"/>
-    <path d="M874 235H890M972 235H988M1070 235H1086M870 241H894M968 241H992M1066 241H1090" stroke="#56646d"/>
-    <path d="M856 100V229M851 100H861M851 229H861M882 252H1078M882 248V256M980 248V256M1078 248V256"/>
+  <g fill="none" stroke-linejoin="round">
+    <path d="M846 274L1132 197L1178 217M846 274L982 317L1178 261M846 274V67M982 317V115" stroke="#41616d" stroke-width="1"/>
+    <path d="M874 91L1070 45L1146 87L949 140Z" stroke="#c7d4d9" stroke-width="3"/>
+    <path d="M874 91V255M1070 45V204M1146 87V249M949 140V300" stroke="#e0e8eb" stroke-width="5"/>
+    <path d="M874 173L1070 126L1146 168L949 219Z" stroke="#bdcdd3" stroke-width="4"/>
+    <path d="M874 255L1070 204L1146 249L949 300Z" stroke="#7597a5" stroke-width="2"/>
+    <path d="M949 300L1146 168M1146 249L949 219M949 219L1146 87M1146 168L949 140" stroke="#9db5bf" stroke-width="2"/>
+    <path d="M1070 45L874 173M874 91L1070 126M1070 126L874 255M874 173L1070 204" stroke="#698996" stroke-width="1.5"/>
+    <path d="M863 255L876 251L887 259L874 263ZM1059 204L1072 200L1083 208L1070 212ZM1135 249L1148 245L1159 253L1146 257ZM938 300L951 296L962 304L949 308Z" fill="#416773" stroke="#d2dfe4" stroke-width="1"/>
   </g>
-  <text x="912" y="296" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.3" fill="#56646d">ESQUEMA CONCEPTUAL</text>
+  <text x="840" y="326" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.5" fill="#c5d3d9">ESQUEMA CONCEPTUAL · SIN ESCALA</text>
 </svg>

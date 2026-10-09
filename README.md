@@ -1,49 +1,64 @@
-﻿![AMBROSIO — Ingeniería estructural, modelación y automatización](assets/banner.svg)
+﻿![Sergio Ambrosio — Ingeniería estructural. Acero, concreto, minería y análisis avanzado.](assets/banner.svg)
 
-# Ingeniería estructural · Modelación · Automatización
+# Sergio Ambrosio · Ingeniería estructural
 
-Este espacio reúne mi trabajo descrito en investigación numérica y automatización, junto con desarrollos en curso y propuestas de estudio. Mi enfoque está en la respuesta sísmica, el concreto armado y la comunicación clara de hipótesis, resultados y límites.
+**Diseño en acero y concreto · Minería e infraestructura · Análisis avanzado**
 
-[Portafolio web](https://sergioambrosio714.github.io/) · [Fichas técnicas](https://sergioambrosio714.github.io/#proyectos) · [Laboratorio de estructuras](https://sergioambrosio714.github.io/#laboratorio)
+Desarrollo ingeniería estructural para minería en **SRK**. Mi experiencia integra diseño, modelación y revisión técnica de edificaciones, estructuras metálicas e infraestructura eléctrica, con atención al comportamiento sísmico, las cimentaciones y la calidad de las memorias y planos.
 
-## Proyectos seleccionados
+Trabajo con análisis no lineal, pushover y elementos finitos para estudiar la respuesta estructural. La programación y la automatización apoyan ese trabajo: organizar datos, revisar cálculos y hacer más trazables los procesos de ingeniería.
 
-| Proyecto | Enfoque y herramientas | Estado de la evidencia |
-| --- | --- | --- |
-| [Pilares de concreto armado con CFRP](https://sergioambrosio714.github.io/casos/01-pilares-cfrp.html) | Comparación BASE/CFRP, secciones de fibras y respuesta cíclica en OpenSeesPy. | Estudio reportado; scripts, datos brutos y cita completa del ensayo pendientes. |
-| [Flujo de revisión sísmica E.030](https://sergioambrosio714.github.io/casos/02-motor-e030.html) | Arquitectura ETABS → Python → Mathcad Prime → memoria trazable. | En desarrollo; implementación funcional y validación pendientes. |
-| [Detalles estructurales con AutoLISP](https://sergioambrosio714.github.io/casos/03-autolisp.html) | Familias de rutinas descritas para vigas, columnas, placas y escaleras en AutoCAD. | Desarrollo técnico descrito; fuentes `.lsp` y capturas auténticas no adjuntas. |
-| [Columnas reforzadas en edificaciones](https://sergioambrosio714.github.io/casos/04-columnas.html) | Comparación numérica propuesta de CFRP y encamisado en edificios de hasta 12 pisos. | En formulación; sin resultados definitivos. |
+Bachiller en Ingeniería Civil por la **Universidad Nacional de Ingeniería — FIC-UNI**.
 
-## Un caso, con su alcance explícito
+[Portafolio profesional](https://sergioambrosio714.github.io/) · [Experiencia y perfil](https://sergioambrosio714.github.io/#perfil) · [Casos técnicos](https://sergioambrosio714.github.io/#proyectos) · [Contacto](https://sergioambrosio714.github.io/#contacto)
 
-La documentación del estudio de pilares con CFRP reporta **117/117 objetivos cíclicos completados**, **NRMSE = 7,928 %** y un incremento de fuerza lateral de **+12,725 % a +5 % de deriva** en el caso numérico de aplicación.
+## Áreas de trabajo
 
-Estos indicadores no han sido verificados de forma independiente en este repositorio: faltan los archivos fuente, los datos brutos y la referencia completa del ensayo. Corresponden al caso estudiado y no constituyen una garantía de desempeño para otras estructuras. La [ficha CFRP](https://sergioambrosio714.github.io/casos/01-pilares-cfrp.html) detalla metodología, cifras adicionales y documentación pendiente.
+- **Diseño estructural:** concreto armado, acero, elementos principales, conexiones y cimentaciones.
+- **Análisis sísmico y avanzado:** modelación no lineal, pushover, evaluación del comportamiento y elementos finitos con Abaqus.
+- **Minería e infraestructura:** estructuras para minería, naves industriales, torres, pórticos y soportes para infraestructura eléctrica.
+- **Revisión y optimización:** revisión de modelos, memorias de cálculo y planos; comparación de alternativas y coordinación con arquitectura y MEP.
+- **Evaluación y reforzamiento:** soluciones de encamisado y FRP, con hipótesis, criterios de análisis y alcance definidos para cada caso.
 
-## Competencias y tecnologías
+## Trayectoria profesional
 
-| Área | Relación con el trabajo presentado |
+| Organización | Experiencia y responsabilidades |
 | --- | --- |
-| **OpenSeesPy · Python** | Modelación no lineal y tratamiento de resultados descritos en el caso CFRP; evidencia ejecutable pendiente. |
-| **ETABS · Python · Mathcad Prime** | Herramientas previstas en la arquitectura de revisión E.030, todavía en desarrollo. |
-| **AutoCAD · AutoLISP** | Dibujo paramétrico y organización de detalles en las familias de rutinas descritas. |
-| **SAP2000 · BIM · coordinación 4D/5D** | Áreas de interés y profundización; este portafolio no aporta todavía un caso específico que demuestre su aplicación. |
-| **Documentación técnica** | Estructura de casos con problema, objetivo, procedimiento, resultados y límites de verificabilidad. |
+| **SRK · Actualmente** | Ingeniería estructural para minería. Diseño y análisis de estructuras de acero y concreto. |
+| **HMV Ingenieros** | Ingeniero estructural — Profesional III. Diseño y revisión de estructuras para infraestructura eléctrica de media y alta tensión: torres de transmisión, pórticos de subestaciones, soportes y cimentaciones. |
+| **MRZ Ingenieros** | Ingeniero estructural. Modelación y análisis sísmico de edificios de 5 a 22 niveles; diseño de concreto y acero, cimentaciones con SAFE, reforzamiento, auditoría técnica y optimización. |
+| **AMEC Foster Wheeler Perú** | Asistente de ingeniería. Inspección estructural, levantamiento topográfico, inventarios y metrados en la reactivación de una planta de cal. |
+| **Grupo MIMCO** | Asistente de ingeniería básica. Diseño de torres y monopolos de telecomunicaciones y elaboración de memorias de cálculo. |
 
-La revisión normativa del flujo E.030 está pendiente. El proyecto no es un verificador terminado ni certificado.
+## Herramientas de ingeniería
 
-## Laboratorio interactivo
+| Aplicación | Herramientas |
+| --- | --- |
+| Modelación, análisis sísmico y diseño estructural | **ETABS · SAP2000** |
+| Diseño y verificación de cimentaciones | **SAFE** |
+| Análisis no lineal y elementos finitos | **OpenSeesPy · Abaqus** |
+| Cálculo, comprobaciones y memorias | **Mathcad · Python** |
+| Detallado, documentación y coordinación BIM | **AutoCAD · Revit Structure · Tekla Structures** |
+| Conexiones de acero | **IDEA StatiCa** |
+| Automatización de tareas de apoyo | **Python · AutoLISP** |
 
-El [laboratorio de viga biapoyada](https://sergioambrosio714.github.io/#laboratorio) permite explorar reacciones, cortante y momento bajo carga uniforme. Es una demostración didáctica de estática; no dimensiona secciones ni acredita cumplimiento normativo.
+## Investigación y desarrollos compartidos
 
-## Contacto
+Estos casos complementan la trayectoria profesional. Su estado y su evidencia disponible se indican en cada ficha; las ilustraciones conceptuales no representan proyectos de los empleadores.
 
-- [Perfil de GitHub](https://github.com/SergioAmbrosio714).
-- Correo profesional y LinkedIn: pendientes de configurar con datos confirmados.
+| Caso | Enfoque | Estado |
+| --- | --- | --- |
+| [Pilares de concreto armado con CFRP](https://sergioambrosio714.github.io/casos/01-pilares-cfrp.html) | Comparación BASE/CFRP y respuesta cíclica con secciones de fibras en OpenSeesPy. | Estudio reportado; archivos fuente, datos brutos y cita completa del ensayo pendientes. |
+| [Flujo de revisión sísmica E.030](https://sergioambrosio714.github.io/casos/02-motor-e030.html) | Arquitectura ETABS → Python → Mathcad Prime → memoria trazable. | En desarrollo; implementación funcional y validación pendientes. |
+| [Detalles estructurales con AutoLISP](https://sergioambrosio714.github.io/casos/03-autolisp.html) | Familias de rutinas para vigas, columnas, placas y escaleras. | Desarrollo descrito; fuentes `.lsp` y capturas auténticas no adjuntas. |
+| [Columnas reforzadas en edificaciones](https://sergioambrosio714.github.io/casos/04-columnas.html) | Comparación propuesta de CFRP y encamisado en edificios de hasta 12 pisos. | En formulación; sin resultados definitivos. |
 
-<!-- CONTACTO CONFIGURABLE: sustituir la línea anterior por correo profesional y URL de LinkedIn reales cuando estén confirmados. No publicar identificadores privados ni enlaces de ejemplo. -->
+La documentación del caso CFRP reporta **117/117 objetivos cíclicos**, **NRMSE = 7,928 %** y **+12,725 % de fuerza lateral a +5 % de deriva**. Son indicadores del caso estudiado, sin verificación independiente en este repositorio; no se extrapolan a otras estructuras. El flujo E.030 continúa en desarrollo y no es un verificador normativo terminado ni certificado.
 
----
+El [laboratorio de viga biapoyada](https://sergioambrosio714.github.io/#laboratorio) es un recurso didáctico para explorar equilibrio, cortante y momento. No dimensiona secciones ni verifica cumplimiento normativo.
 
-Primero las hipótesis y la mecánica. Después el modelo y el código. Cada conclusión, con su evidencia y sus límites.
+## Contacto profesional
+
+[LinkedIn](https://www.linkedin.com/in/sergio-junior-ambrosio-camayo-668241116/) · [Portafolio profesional](https://sergioambrosio714.github.io/#contacto) · [GitHub](https://github.com/SergioAmbrosio714)
+
+<!-- CONTACTO CONFIGURABLE: añadir correo profesional únicamente cuando se confirme su publicación. No adjuntar el CV completo ni publicar dirección, documento de identidad o teléfono personal. -->
