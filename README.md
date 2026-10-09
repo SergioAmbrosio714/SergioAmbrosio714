@@ -5,7 +5,7 @@
 
 **Ingeniero Civil titulado — Universidad Nacional de Ingeniería (UNI), Facultad de Ingeniería Civil.**
 
-Structural Engineer | Steel & Concrete Structures | Mining & Industrial Facilities | Seismic & Nonlinear Analysis
+Structural Engineer | Steel, Concrete & Mining | Design Codes & Advanced Analysis | Python & Engineering Automation
 
 Diseño, modelación y revisión de estructuras de acero y concreto. Actualmente desarrollo ingeniería estructural para minería en **SRK**, con trayectoria en edificaciones e infraestructura eléctrica en HMV, MRZ, AMEC Foster Wheeler y MIMCO.
 
@@ -25,8 +25,16 @@ Diseño, modelación y revisión de estructuras de acero y concreto. Actualmente
 
 Coautor en **17WCEE** y expositor de una presentación breve en línea (SOP) del congreso híbrido de 2021. Las fichas enlazan las fuentes originales y distinguen publicaciones, presentaciones y actividades académicas.
 
-### Criterio y herramientas
+### Normativa, análisis y verificación
 
-Concreto armado, acero, ingeniería sísmica, análisis no lineal, elementos finitos y reforzamiento. ETABS · SAP2000 · SAFE · Mathcad · AutoCAD · Revit · IDEA StatiCa; Python, OpenSeesPy y Abaqus como herramientas de análisis y desarrollo técnico.
+Marco de aplicación declarado: RNE E.020, E.030, E.050 y E.060; ACI 318, ASCE/SEI 7, AISC 360, ASCE/SEI 41, ACI 562 y referencias FRP. [Ediciones, alcance y fuentes oficiales](https://sergioambrosio714.github.io/normativa/index.html). Análisis sísmico y no lineal, elementos finitos y reforzamiento; ETABS, SAP2000, SAFE, Mathcad, OpenSeesPy y Abaqus vinculados al problema estructural.
+
+### Python comprobable
+
+- [Resultados por nivel](https://sergioambrosio714.github.io/laboratorio/resultados-por-nivel.html): importar CSV, validar unidades, comparar casos y exportar datos.
+- [Voladizo paramétrico](https://sergioambrosio714.github.io/laboratorio/voladizo-parametrico.html): equilibrio, deformación y esfuerzos con solución analítica.
+- [Código Python, ejemplos y pruebas](https://github.com/SergioAmbrosio714/SergioAmbrosio714.github.io/tree/main/python).
+
+Demostraciones desarrolladas para este portafolio en octubre de 2026; no se atribuyen a proyectos profesionales anteriores. Python complementa el criterio de diseño y la revisión, con procedimientos reproducibles y salidas trazables.
 
 [Notas técnicas](https://sergioambrosio714.github.io/#notas) · [Experiencia profesional](https://sergioambrosio714.github.io/#experiencia) · [Structural Lab](https://sergioambrosio714.github.io/#herramientas)
